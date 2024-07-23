@@ -1,0 +1,13 @@
+.cliker,.no-clicker{
+    font-size: 28px;
+    font-family: Helvetica , 'Times New Roman' ,sans-serif;
+}
+
+.cliker{
+    background-color: #000000;
+    color: #ffffff
+}
+.no-clicker{
+background-color: #b3b627;
+}
+
